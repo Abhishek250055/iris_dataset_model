@@ -1,0 +1,15 @@
+1. keras
+2. sklearn-------------->
+                    1.from sklearn.datasets import load_iris
+                    2.from sklearn.preprocessing import MinMaxScaler
+                    3.from sklearn.preprocessing import OneHotEncoder
+                    4.from sklearn.model_selection import train_test_split
+                    5.from keras.activations import softmax
+                    6.from keras.models import Sequential
+                    7.from keras.layers import Dense
+                    8.from sklearn.metrics import  precision_score
+                    9.from sklearn.metrics import  recall_score
+                    10.from keras.callbacks import EarlyStopping
+
+3. numpy
+4. pandas
